@@ -8,3 +8,4 @@
 * Achieved a detection accuracy of 75%, with the best performance using YOLOv9 + SAHI.
 * Developed and trained models entirely in Python, using a self-curated dataset of street-level imagery.
 * Successfully published and presented the research at the IEEE International Electrical Engineering Congress 2025.
+![alt text](IEECON2025/001certificate.jpeg)]
