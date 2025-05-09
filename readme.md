@@ -10,7 +10,7 @@
 > * Successfully published and presented the research at the IEEE International Electrical Engineering Congress 2025.
 
 <p align="center" >
-  <img src="IEECON2025/001certificate.jpeg" alt="alt text" width="600" hight="500"/>
+  <img src="IEECON2025/001certificate.jpg" alt="alt text" width="700" hight="500"/>
 </p>
 
 ## **PROJECTS**
