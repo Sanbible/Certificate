@@ -8,8 +8,9 @@
 > * Achieved a detection accuracy of 75%, with the best performance using YOLOv9 + SAHI.
 > * Developed and trained models entirely in Python, using a self-curated dataset of street-level imagery.
 > * Successfully published and presented the research at the IEEE International Electrical Engineering Congress 2025.
-
-<img src="IEECON2025/001certificate.jpeg" alt="alt text" width="600" hight="500"/>
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="IEECON2025/001certificate.jpeg" alt="alt text" width="600" hight="500"/>
+</div>
 
 <!-- <img src="https://down-th.img.susercontent.com/file/2d431651e8a1ff4c764c31175255ff30" width="150" />
 <img src="https://down-th.img.susercontent.com/file/2d431651e8a1ff4c764c31175255ff30" width="150" />
@@ -25,7 +26,7 @@
 <img src="I_NEW_GEN_AWARD2025/001certificate.png"  width="266" /> 
 <img src="I_NEW_GEN_AWARD2025/002poster.jpg"  width="250" /> -->
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="I_NEW_GEN_AWARD2025/001certificate.png" width="266" />
-  <img src="I_NEW_GEN_AWARD2025/002poster.jpg" width="250" />
+<div style="display: flex; gap: 10px; align-items: flex-start; justify-content: center; ">
+  <img src="I_NEW_GEN_AWARD2025/001certificate.png" width="320" />
+  <img src="I_NEW_GEN_AWARD2025/002poster.jpg" width="300" />
 </div>
