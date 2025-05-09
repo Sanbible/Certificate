@@ -30,3 +30,8 @@
   <img src="I_NEW_GEN_AWARD2025/001certificate.png" width="320" />
   <img src="I_NEW_GEN_AWARD2025/002poster.jpg" width="300" />
 </div>
+
+<p align="center" >
+  <img src="I_NEW_GEN_AWARD2025/001certificate.png" width="320" />
+  <img src="I_NEW_GEN_AWARD2025/002poster.jpg" width="300" />
+</p>
