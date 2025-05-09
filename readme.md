@@ -22,5 +22,5 @@
 >* Aimed to improve the efficiency of agricultural product sorting and reduce human error.
 >* Awarded Silver Medal in the national innovation competition “I-New Gen Award 2025”
 
-<img src="I_NEW_GEN_AWARD2025/001certificate.png"  width="320" /> 
-<img src="I_NEW_GEN_AWARD2025/002poster.jpg"  width="300" />
+<img src="I_NEW_GEN_AWARD2025/001certificate.png"  width="266" /> 
+<img src="I_NEW_GEN_AWARD2025/002poster.jpg"  width="250" />
