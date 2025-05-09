@@ -21,6 +21,11 @@
 >* Implemented the system using Python, OpenCV, and Intel RealSense depth cameras to generate 3D point clouds and extract volumetric data.
 >* Aimed to improve the efficiency of agricultural product sorting and reduce human error.
 >* Awarded Silver Medal in the national innovation competition “I-New Gen Award 2025”
-
+<!-- 
 <img src="I_NEW_GEN_AWARD2025/001certificate.png"  width="266" /> 
-<img src="I_NEW_GEN_AWARD2025/002poster.jpg"  width="250" />
+<img src="I_NEW_GEN_AWARD2025/002poster.jpg"  width="250" /> -->
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="I_NEW_GEN_AWARD2025/001certificate.png" width="266" />
+  <img src="I_NEW_GEN_AWARD2025/002poster.jpg" width="250" />
+</div>
