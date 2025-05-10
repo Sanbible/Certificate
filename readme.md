@@ -13,11 +13,14 @@
   <img src="IEECON2025/001certificate.jpg" alt="alt text" width="500" />
 </p>
 <p align="center" >
-  <img src="IEECON2025/002paper.jpg" width="200" />
-  <img src="IEECON2025/003paper.jpg" width="200" />
-  <img src="IEECON2025/004paper.jpg" width="200" />
-  <img src="IEECON2025/005paper.jpg" width="200" />
+  <a href="IEECON2025/006full_Paper.pdf" target="_blank">
+    <img src="IEECON2025/002paper.jpg" width="200" />
+    <img src="IEECON2025/003paper.jpg" width="200" />
+    <img src="IEECON2025/004paper.jpg" width="200" />
+    <img src="IEECON2025/005paper.jpg" width="200" />
+  </a>
 </p>
+
 ## **PROJECTS**
 ### **Weighing Cup Lump Rubber using Three-Dimensional Scale**
 >* Designed and developed for estimating the weight cup lump rubber using 3D imaging and computer vision.
