@@ -40,6 +40,11 @@
 >* Programmed logic on FPGA and custom-built board to handle input keys and produce accurate pitch sound output.
 >* Assembled and wired a custom hardware board with appropriate DAC/speaker output for real-time sound playback.
 
+<p align="center" >
+  <img src="Electronic_Piano\001_picture.jpg" width="319" />
+  <img src="Electronic_Piano\002_circuit.jpg" width="300" />
+</p>
+
 ### **Digital Clock with Adjustable Time using State  Machines**
 >* Developed a digital clock system implemented on an Intel MAX 10 FPGA, capable of displaying and adjusting time through Seven Segment Displays.
 >* Implemented precise time counting using clock division and real-time logic in VHDL.
